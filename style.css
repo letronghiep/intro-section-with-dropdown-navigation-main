@@ -353,3 +353,11 @@ img {
 
     }
 }
+@media only screen and (max-width: 460px) {
+    .nav-item-img-up,
+    .nav-item-img-down {
+        top: 17px;
+        right: 50%;
+        width: 5%;
+    }
+}
